@@ -1,2 +1,2 @@
 
-Đây là code chi tieets bài toán tháp Hà Nội
+Đây là code chi tiết bài toán tháp Hà Nội
