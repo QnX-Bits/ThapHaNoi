@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\ThapHaNoi\ThapHaNoi\bin\Debug\ThapHaNoi.exe.config
+C:\Users\DELL\source\repos\ThapHaNoi\ThapHaNoi\bin\Debug\ThapHaNoi.exe
+C:\Users\DELL\source\repos\ThapHaNoi\ThapHaNoi\bin\Debug\ThapHaNoi.pdb
+C:\Users\DELL\source\repos\ThapHaNoi\ThapHaNoi\obj\Debug\ThapHaNoi.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ThapHaNoi\ThapHaNoi\obj\Debug\ThapHaNoi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ThapHaNoi\ThapHaNoi\obj\Debug\ThapHaNoi.exe
+C:\Users\DELL\source\repos\ThapHaNoi\ThapHaNoi\obj\Debug\ThapHaNoi.pdb
